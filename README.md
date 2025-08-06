@@ -18,3 +18,5 @@ Prior to beginning analysis, a variety of checks were conducted for quality cont
 
 # Executive Summary
 After heavily peaking in July & August 2024, the channel's growth and revenue has continued to decline, with significant drops in the first half of 2025. Key performance indicators have shown a decrease of 95.7% in net subscribers, 88.6% in impressions, 86.6% in views, and 95.2% in revenue. While this decline can be attributed to an inconsistent and infrequent upload schedule in the first half of 2025, the following section will explore additional contributing factors and highlight key opportunity areas for improvement.
+
+Below is the interactive page from the Tableu dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed [here.](https://public.tableau.com/views/ConsultingProjectDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
